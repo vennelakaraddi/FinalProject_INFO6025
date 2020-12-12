@@ -1,0 +1,4 @@
+bin/*
+executable/* 
+.DS_Store
+.idea
